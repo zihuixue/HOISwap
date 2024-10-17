@@ -8,7 +8,7 @@ NeurIPS, 2024
 
 ## News
 
-- **10/2024** Unfortunately, we are unable to release the HOI-Swap pre-trained checkpoints due to legal constraints. However, the HOI-Swap edit benchmark and evaluation code are now available [here]((#hoi-swap-edit-benchmark)). Stay tuned for the training and inference code.
+- **10/2024** Unfortunately, we are unable to release the HOI-Swap pre-trained checkpoints due to legal constraints. However, the HOI-Swap edit benchmark and evaluation code are now available [here](#hoi-swap-edit-benchmark). Stay tuned for the training and inference code.
 
 ## HOI-Swap edit benchmark
 
