@@ -8,7 +8,9 @@ NeurIPS, 2024
 
 ## News
 
-- **10/2024** Unfortunately, we are unable to release the HOI-Swap pre-trained checkpoints due to legal constraints. However, the HOI-Swap edit benchmark and evaluation code are now available [here](#hoi-swap-edit-benchmark). Stay tuned for the training and inference code.
+- **10/20/2024** For those interested in training and inference of HOI-Swap, the corresponding code can be accessed upon request. Please fill out the form [here](https://forms.gle/bf7bXRskNWtjBWxX8) for more details.  
+
+- **10/16/2024** Unfortunately, we are unable to release the HOI-Swap pre-trained checkpoints due to legal constraints. However, the HOI-Swap edit benchmark and evaluation code are now available [here](#hoi-swap-edit-benchmark). Stay tuned for the training and inference code.
 
 ## HOI-Swap edit benchmark
 
@@ -29,7 +31,7 @@ Baselines:
 ### Video editing
 The video editing evaluation set consists of 25 source videos, each combined with four reference object images, yielding 100 unique edited videos. `videos_hoi4d` contains 17 videos from HOI4D, and `videos_ood` contains 8 videos from TCN Pouring and EPIC-Kitchens, demonstrating zero-shot generalization capabilities.
 
-We also provide preprocessed detection results using the [hand object detector](https://github.com/ddshan/hand_object_detector.git), available in the hand_det_video folder.
+We also provide preprocessed detection results using the [hand object detector](https://github.com/ddshan/hand_object_detector.git), available in the `hand_det_video` folder.
 
 Evaluation:
 
